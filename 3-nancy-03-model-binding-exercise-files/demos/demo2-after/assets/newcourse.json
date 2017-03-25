@@ -1,0 +1,9 @@
+{
+  "name"    : "Getting Started with Nancy",
+  "author"  : "Richard Cirerol",
+  "modules" : [
+    { "topic" : "Introduction" },
+    { "topic" : "The NancyModule" },
+    { "topic" : "Extending the NancyModule" }
+ ]
+}

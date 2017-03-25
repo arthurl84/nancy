@@ -1,0 +1,16 @@
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\PS.NancyDemo.Test.dll.config
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\PS.NancyDemo.Test.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\PS.NancyDemo.Test.pdb
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\HtmlAgilityPlus.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\Nancy.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\Nancy.Testing.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\Nancy.ViewEngines.Razor.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\PS.NancyDemo.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\System.Web.Razor.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\xunit.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\PS.NancyDemo.pdb
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\bin\Debug\xunit.xml
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\obj\Debug\PS.NancyDemo.Test.dll
+C:\Projects\pluralsight\nancy-demo\PS.NancyDemo.Test\obj\Debug\PS.NancyDemo.Test.pdb
